@@ -1,0 +1,19 @@
+## 라즈베리파이 웹서버 구축
+
+### 1. OS 설치 및 환경 구축
+
+일단 다음 참고하여 OS설치 등등
+https://happymortals.com/raspberry3-raspbian-install-part1/
+
+다음 참고하여 디스크공간 확장
+https://happymortals.com/raspberry3-raspbian-install-part2/
+
+..하려했으나 df -h 해본결과 15G 사용가능하도록 되어있네? 잉?
+하여 비밀번호 수정 및 소소한 수정하고
+
+https://happymortals.com/2016-03-14-raspberry3-install-part3/
+참고하여 무선랜 설정
+
+### 2. Node.js
+
+다음 참고하여 node 설치
