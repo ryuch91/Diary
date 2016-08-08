@@ -16,4 +16,11 @@ https://happymortals.com/2016-03-14-raspberry3-install-part3/
 
 ### 2. Node.js
 
-다음 참고하여 node 설치
+다음 참고하여 node 설치 (NPM 글로벌모듈 설치 오류에 대해서도 나와있다.)
+http://programmingsummaries.tistory.com/374
+
+아래를 따라서 차근차근 진행해보자
+https://velopert.com/195
+
+이제 본격적으로 node.js 를 이용한 어플리케이션을 만들어보자
+https://velopert.com/210
